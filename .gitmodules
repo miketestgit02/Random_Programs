@@ -19,3 +19,6 @@
 [submodule "Python_Programs"]
 	path = Python_Programs
 	url = https://github.com/miketestgit02/Python_Programs
+[submodule "Shell"]
+	path = Shell
+	url = https://github.com/miketestgit02/Shell
