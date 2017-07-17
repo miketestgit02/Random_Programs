@@ -13,3 +13,6 @@
 [submodule "MatLab"]
 	path = MatLab
 	url = https://github.com/miketestgit02/MatLab
+[submodule "Mega_Project_List_Solutions"]
+	path = Mega_Project_List_Solutions
+	url = https://github.com/miketestgit02/Mega_Project_List_Solutions
