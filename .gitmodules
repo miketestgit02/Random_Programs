@@ -16,3 +16,6 @@
 [submodule "Mega_Project_List_Solutions"]
 	path = Mega_Project_List_Solutions
 	url = https://github.com/miketestgit02/Mega_Project_List_Solutions
+[submodule "Python_Programs"]
+	path = Python_Programs
+	url = https://github.com/miketestgit02/Python_Programs
