@@ -7,3 +7,6 @@
 [submodule "C++_Programs"]
 	path = C++_Programs
 	url = https://github.com/miketestgit02/C++_Programs
+[submodule "Java"]
+	path = Java
+	url = https://github.com/miketestgit02/Java
